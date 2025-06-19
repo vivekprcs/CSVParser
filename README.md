@@ -12,6 +12,8 @@ The application follows MVVM (Model-View-ViewModel) architecture pattern with th
 - **Data Layer**: CSV parsing and JSON conversion utilities.
 - **Models**: Data classes for CSV structure and output format
 
+## Sequence Diagram
+![UML](uml_csvparser.png)
 ## 📋 **Features**
 
 - ✅ File picker integration for CSV selection
@@ -31,12 +33,24 @@ The application follows MVVM (Model-View-ViewModel) architecture pattern with th
 - Architecture: MVVM with StateFlow
 - JSON Processing: Gson
 - Material Design: Material Design 3
-- Testing: JUnit, Mockito
 - Build System: Gradle with Kotlin DSL
-
-## 🧪 Testing
 
 ## 📱 Screenshots
 | OPEN CSV FILE         |  PROCESS AND DISPLAY JSON  |
 |-----------------------|-------------------------------------|
+| ![OpenCsv](open_csv.jpg) | ![Display-Json](json_view.jpg) |
 
+
+## APK Download
+
+You can download the APK file of the app from the link below:
+
+[Download APK](https://drive.google.com/file/d/1vbGJ3kp4uSPiirmkttz56_IhXA5KwRjC/view?usp=drive_link)
+
+## Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vivekprcs/CSVParser.git
