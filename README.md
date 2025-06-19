@@ -35,6 +35,7 @@ The application follows MVVM (Model-View-ViewModel) architecture pattern with th
 - Material Design: Material Design 3
 - Build System: Gradle with Kotlin DSL
 
+
 ## 📱 Screenshots
 | OPEN CSV FILE         |  PROCESS AND DISPLAY JSON  |
 |-----------------------|-------------------------------------|
@@ -54,3 +55,5 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/vivekprcs/CSVParser.git
+
+2. Sample CSV file for Testing   ![DownloadCsv](sample_device_report.csv)  
