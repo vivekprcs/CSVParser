@@ -1,4 +1,4 @@
-package com.vivek.csvparser.parser
+package com.vivek.csvparser.data
 
 import com.vivek.csvparser.model.CsvHeader
 import com.vivek.csvparser.model.CsvRecord

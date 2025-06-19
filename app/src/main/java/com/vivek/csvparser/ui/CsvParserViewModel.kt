@@ -5,8 +5,8 @@ import android.net.Uri
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.vivek.csvparser.util.FileReadException
-import com.vivek.csvparser.parser.CsvParser
-import com.vivek.csvparser.parser.JsonConverter
+import com.vivek.csvparser.data.CsvParser
+import com.vivek.csvparser.data.JsonConverter
 import com.vivek.csvparser.ui.state.CsvParserUiState
 import com.vivek.csvparser.ui.state.ParseResult
 import kotlinx.coroutines.flow.MutableStateFlow

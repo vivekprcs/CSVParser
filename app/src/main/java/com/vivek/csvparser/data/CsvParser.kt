@@ -1,4 +1,4 @@
-package com.vivek.csvparser.parser
+package com.vivek.csvparser.data
 
 import com.vivek.csvparser.util.CountMismatchException
 import com.vivek.csvparser.util.CsvParseException
